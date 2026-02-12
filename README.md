@@ -33,6 +33,4 @@ Updates UI instantly
 
 
 
-useNavigate() → Programmatic navigation
 
-useParams() → Dynamic route handling
